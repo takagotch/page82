@@ -7,7 +7,7 @@ title:            TKVTV
 tagline:          取引量No.1！ *当社比
 description:      "取引量No.1！ *当社比"
 url:              https://takagotch.github.io/page82/
-baseurl:          /
+baseurl:          https://takagotch.github.io/page82/
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
