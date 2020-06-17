@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            TKVTV
-tagline:          取引量No.1！ *当社比
-description:      "取引量No.1！ *当社比"
+title:            阪神タイガース.com
+tagline:          六甲おろしに...♪ﾌﾚﾌﾚﾌﾚﾌﾚ
+description:      "六甲おろしに...♪ﾌﾚﾌﾚﾌﾚﾌﾚ"
 url:              https://takagotch.github.io/page82/
 baseurl:          https://takagotch.github.io/page82/
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
