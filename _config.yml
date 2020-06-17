@@ -12,7 +12,7 @@ baseurl:          https://takagotch.github.io/page82/
                   # This will apply to all pages in your Jekyll site.
 
 author:
-  name:           Karlo Espiritu
+  name:           takagotch
   url:            https://facebook.com/takagotch
 
 paginate:         5
