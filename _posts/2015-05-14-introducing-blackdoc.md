@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Introducing BlackDoc
+title: JCB with 阪神タイガース
 ---
+![placeholder](https://github.com/takagotch/page82/blob/master/assets/img/hanshin800400.jpg "Large example image")
 
 BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
 
