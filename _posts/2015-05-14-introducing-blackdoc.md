@@ -4,7 +4,52 @@ title: JCB with 阪神タイガース
 ---
 ![HanshinTigers](https://i.imgur.com/lVtazJc.jpg "LargeImages")
 
-BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
+六甲颪に　颯爽と
+蒼天翔ける 日輪の
+青春の覇気　美しく
+輝く我が名ぞ　阪神タイガース
+
+オウ　オウ　オウオウ　阪神タイガース
+フレ　フレフレフレ
+
+闘志溌剌　起つや今
+熱血既に　敵を衝く
+獣王の意気　高らかに
+無敵の我等ぞ　阪神タイガース
+
+オウ　オウ　オウオウ　阪神タイガース
+フレ　フレフレフレ
+
+鉄腕強打　幾千度び
+鍛えてこゝに　甲子園
+勝利に燃ゆる　栄冠は
+輝く我等ぞ　阪神タイガース
+
+オウ　オウ　オウオウ　阪神タイガース
+フレ　フレフレフレ
+
+ろっこうおろしに　さっそうと
+そうてんかける にちりんの
+せいしゅんのはき　うるわしく
+かがやくわがなぞ　はんしんタイガース
+オウ　オウ　オウオウ　はんしんタイガース
+フレ　フレフレフレ
+
+とうしはつらつ　たつやいま
+ねっけつすでに　てきをつく
+じゅうおうのいき　たからかに
+むてきのわれらぞ　はんしんタイガース
+オウ　オウ　オウオウ　はんしんタイガース
+フレ　フレフレフレ
+
+てつわんきょうだ　いくちたび
+きたえてここに こうしえん
+しょうりにもゆる　えいかんは
+かがやくわれら　はんしんタイガース
+オウ　オウ　オウオウ　はんしんタイガース
+フレ　フレフレフレ
+
+六甲颪 is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
 
 I needed a two-column layout with a scrolling sidebar to publish my [code cheatsheets](http://karloespiritu.com/cheatsheets), and found the [Hyde](http://hyde.getpoole.com) Jekyll theme to be a good starting theme. To complement the color scheme of my main [website](http://karloespiritu.com), I customised the theme to make it look great in black background and changed the sidebar to display scrolling content. I created this theme because I can't seem to find any good Jekyll theme with a master-detail layout. Hopefully, someone will find this useful as well in their own projects.
 
